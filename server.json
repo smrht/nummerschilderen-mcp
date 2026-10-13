@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.smrht/nummerschilderen",
+  "title": "Nummerschilderen.com shop advisor",
+  "description": "Search paint-by-number kits, get size and price advice for your own photo, shop info. No login.",
+  "version": "1.1.0",
+  "websiteUrl": "https://nummerschilderen.com/",
+  "repository": {
+    "url": "https://github.com/smrht/nummerschilderen-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/smrht/nummerschilderen-mcp/main/logo-400.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "400x400"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.nummerschilderen.com/mcp"
+    }
+  ]
+}
