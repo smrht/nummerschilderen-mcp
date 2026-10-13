@@ -3,7 +3,7 @@
   "name": "io.github.smrht/nummerschilderen",
   "title": "Nummerschilderen.com shop advisor",
   "description": "Search paint-by-number kits, get size and price advice for your own photo, shop info. No login.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "websiteUrl": "https://nummerschilderen.com/",
   "repository": {
     "url": "https://github.com/smrht/nummerschilderen-mcp",
